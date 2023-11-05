@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Achraf-Rejouan
+- 👋 Hi, I’m <span style="color:red;">@Achraf-Rejouan</span>
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me : achrafrejouan@gmail.com
